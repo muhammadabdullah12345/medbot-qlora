@@ -3,9 +3,6 @@
 A medical chatbot built by fine-tuning **Google Gemma-2B** on 3,000 real patient-doctor 
 conversations using **QLoRA (4-bit quantization + LoRA adapters)** on free Google Colab T4 GPU.
 
-## Live Demo
-[HuggingFace Space →](https://huggingface.co/spaces/Abdullah-1-23/medbot-assistant)
-
 ## Model
 [Abdullah-1-23/medbot-gemma-2b-qlora →](https://huggingface.co/Abdullah-1-23/medbot-gemma-2b-qlora)
 
